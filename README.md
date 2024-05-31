@@ -11,23 +11,29 @@ better suited for forecasting energy metrics.
 ```
 
 ### Dataset
-<!-- • Time series with measurements taken every 60 seconds, containing
+```
+• Time series with measurements taken every 60 seconds, containing
 6,737,452 records from January 10, 2023, to April 1, 2023.
 • Time series with measurements taken every 15 minutes, containing
 531,547 records from January 1, 2023, to April 1, 2023.
 • Description of the components in the energy management system,
-containing 77 records. -->
+containing 77 records.
+```
 
 ### Challenges
-<!-- • Data Preparation: Handling the large volume of time series data and
+```
+• Data Preparation: Handling the large volume of time series data and
 dealing with missing values and irregularities.
-• Identifying suitable methods for time series analysis. -->
+• Identifying suitable methods for time series analysis.
+```
 
 ### Tasks
-<!-- • Describe and clean the dataset.
+```
+• Describe and clean the dataset.
 • Choose and train a time series forecasting model.
 • Compare model performance using minute-based and quarter-hour-based data.
-• Present the findings and steps taken to achieve the goals. -->
+• Present the findings and steps taken to achieve the goals.
+```
 
 
 ## git pull https://github.com/neuwelt/energy_analytics.git
