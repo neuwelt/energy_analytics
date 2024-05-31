@@ -1,4 +1,4 @@
-# energy_analytics
+# Energy_Analytics
 
 ### Description
 ```
