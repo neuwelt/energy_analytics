@@ -1,12 +1,14 @@
 # energy_analytics
 
 ### Description
-<!-- Your team has been tasked with forecasting energy production and usage in
+```
+Your team has been tasked with forecasting energy production and usage in
 a smart building equipped with a rooftop PV system, electric vehicle
 charging infrastructure, and a battery storage system. The goal is to
 analyze time series data and compare different forecasting models to 
 determine which data granularity (minute-based or quarter-hour-based) is 
-better suited for forecasting energy metrics. -->
+better suited for forecasting energy metrics.
+```
 
 ### Dataset
 <!-- • Time series with measurements taken every 60 seconds, containing
