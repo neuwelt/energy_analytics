@@ -37,16 +37,13 @@ dealing with missing values and irregularities.
 
 ### Local Setup
 ```
-1. Git clone https://github.com/neuwelt/energy_analytics.git
-2. pip install statsmodels
-```
+1. Clone github repo
+    Git clone https://github.com/neuwelt/energy_analytics.git
 
-## Download csv & pdf files from moodel
-[Moodel Link](https://moodle.hs-augsburg.de/mod/resource/view.php?id=382079)
-```
-1. Extract zip and save files to the root directory
-2. Run section by section of the ipynb file, each section generates file required in the next
-```
+2. Install ARIMA
+    pip install statsmodels
 
-## Install ARIMA
-`pip install statsmodels`
+3.  Download csv & pdf files - [Moodel Link](https://moodle.hs-augsburg.de/mod/resource/view.php?id=382079)
+    1. Extract files to the root directory
+    2. Run section by section of the ipynb file, each section generates file required in the next
+```
