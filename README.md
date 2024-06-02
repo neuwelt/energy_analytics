@@ -44,7 +44,8 @@ Git clone https://github.com/neuwelt/energy_analytics.git
 ## Download csv & pdf files from moodel
 [Moodel Link](https://moodle.hs-augsburg.de/mod/resource/view.php?id=382079)
 ```
-Extract zip and save files to the root directory
+1. Extract zip and save files to the root directory
+2. Run section by section of the ipynb file, each section generates file required in the next
 ```
 
 ## Install ARIMA
