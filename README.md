@@ -36,9 +36,9 @@ dealing with missing values and irregularities.
 ```
 
 ### Local Setup
-[Github Repo](https://github.com/neuwelt/energy_analytics.git)
 ```
-Git clone https://github.com/neuwelt/energy_analytics.git
+1. Git clone https://github.com/neuwelt/energy_analytics.git
+2. pip install statsmodels
 ```
 
 ## Download csv & pdf files from moodel
