@@ -35,5 +35,17 @@ dealing with missing values and irregularities.
 • Present the findings and steps taken to achieve the goals.
 ```
 
+### Local Setup
+[Github Repo](https://github.com/neuwelt/energy_analytics.git)
+```
+Git clone https://github.com/neuwelt/energy_analytics.git
+```
 
-## git pull https://github.com/neuwelt/energy_analytics.git
+## Download csv & pdf files from moodel
+[Moodel Link](https://moodle.hs-augsburg.de/mod/resource/view.php?id=382079)
+```
+Extract zip and save files to the root directory
+```
+
+## Install ARIMA
+`pip install statsmodels`
