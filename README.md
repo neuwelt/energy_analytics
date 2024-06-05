@@ -32,9 +32,10 @@ The goal is to analyze time series data and compare different forecasting models
     ```
     Git clone https://github.com/neuwelt/energy_analytics.git
     ```
-2. Install ARIMA
+2. Install ARIMA & Prophet
     ```
     pip install statsmodels
+    pip install prophet
     ```
 
 3.  Download csv & pdf files - [Moodel Link](https://moodle.hs-augsburg.de/mod/resource/view.php?id=382079)
